@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: 26-SB-Cloud-Config-Server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/kumarlalbaboo/configuration_properties
+
+server:
+  port: 4444

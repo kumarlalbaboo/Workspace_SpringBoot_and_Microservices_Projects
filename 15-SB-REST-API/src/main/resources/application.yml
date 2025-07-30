@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: 15-SB-REST-API
+
+api:
+  messages:
+    greet: Good morning..!!
+    welcome: Welcome to AshokIT
+    invalidLogin: Invalid Credentials
+    regSeccess: Registration Successful
+    invalidEmail: Email Invalid
