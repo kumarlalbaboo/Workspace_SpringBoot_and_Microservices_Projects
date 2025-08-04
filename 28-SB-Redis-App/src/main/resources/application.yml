@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: 28-SB-Redis-App
+  data:
+    redis:
+      url: redis-16606.c11.us-east-1-3.ec2.redns.redis-cloud.com
+      port: 16606
+      username: default
+      password: bDWcV6LfKpSrXMUMBu9j4zdqxCrOOT4U
